@@ -82,9 +82,9 @@
   </a>
 </div>
 
-<br>
-<!-- 
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<!-- <br> -->
+
+<!-- <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
@@ -102,12 +102,12 @@
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a>
+</a> -->
 
 <!-- <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
- --> -->
+</a> -->
+
