@@ -84,9 +84,6 @@ e logo" title="Python" height="25" /></span>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="_blank" rel="noopener noreferrer">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a>
   <a href="https://facebook.com/nqt7301/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="quangtung-facebook" />
   </a>
@@ -97,7 +94,7 @@ e logo" title="Python" height="25" /></span>
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quangtung-linkedin" />
   </a> -->
   <a href="https://www.instagram.com/nguyentung7301/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="quangtung-instagram />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="quangtung-instagram" />
   </a>
   <a href="mailto:tt.quangtung.ld@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="quangtung-email" />
