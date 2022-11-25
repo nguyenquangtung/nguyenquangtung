@@ -45,6 +45,11 @@
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=visual-studio-code&logoColor=#512BD4" alt=".NET
 e logo" title=".NET" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=##3776AB" alt="Python
+e logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=openCV&logoColor=##5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
+&nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
