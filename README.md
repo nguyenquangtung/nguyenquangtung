@@ -38,11 +38,14 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=44A833" alt="Anaconda logo" title="Anaconda" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/EclipseIDE-282C34?logo=eclipseIDE&logoColor=2C2255" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>
+<span><img src="https://img.shields.io/badge/EclipseIDE-282C34?logo=eclipseIDE&logoColor=782A90" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/.NET-282C34?logo=visual-studio-code&logoColor=#512BD4" alt=".NET
+<span><img src="https://img.shields.io/badge/SpyderIDE-282C34?logo=spyderIDE&logoColor=FF0000" alt="Spyder IDE logo" title="Spyder IDE
+" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/.NET-282C34?logo=visual-studio-code&logoColor=512BD4" alt=".NET
 e logo" title=".NET" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python
