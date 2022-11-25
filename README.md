@@ -66,48 +66,18 @@
 <!-- https://icons8.com -->
 <div align="center">
  <a href="https://facebook.com/nqt7301/" target="blank">
-    <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/3677/3677211.png" alt="quangtung-facebook" />
+    <img width="60" height="60" src="https://cdn-icons-png.flaticon.com/512/3677/3677211.png" alt="quangtung-facebook" />
   </a>
   <a href="https://www.youtube.com/@tungquangnguyen731" target="blank">
-    <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/725/725300.png" alt="quangtung-youtube" />
+    <img width="60" height="60" src="https://cdn-icons-png.flaticon.com/512/725/725300.png" alt="quangtung-youtube" />
   </a>
   <!-- <a href="https://www.linkedin.com/in/quangtung" target="blank">
     <img src="https://www.flaticon.com/free-icon/linkedin_725337?term=linkedin&page=1&position=2&page=1&position=2&related_id=725337&origin=style" alt="quangtung-linkedin" />
   </a> -->
   <a href="https://www.instagram.com/nguyentung7301/" target="blank">
-    <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/725/725278.png" alt="quangtung-instagram" />
+    <img width="60" height="60" src="https://cdn-icons-png.flaticon.com/512/725/725278.png" alt="quangtung-instagram" />
   </a>
   <a href="mailto:tt.quangtung.ld@gmail.com" target="top">
-    <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="quangtung-email" />
+    <img width="60" height="60" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="quangtung-email" />
   </a>
 </div>
-
-<!-- <br> -->
-
-<!-- <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
-<br>
-<p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
-  </a>
-</p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
-  <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
-</p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a> -->
-
-<!-- <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a> -->
-
