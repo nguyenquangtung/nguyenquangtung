@@ -34,25 +34,29 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp; -->
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=44A833" alt="Anaconda logo" title="Anaconda" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/EclipseIDE-282C34?logo=eclipseIDE&logoColor=2C2255" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=visual-studio-code&logoColor=#512BD4" alt=".NET
 e logo" title=".NET" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=##3776AB" alt="Python
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python
 e logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=openCV&logoColor=##5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
+<span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=openCV&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftSQLServer&logoColor=#CC2927" alt="MicrosoftSQLServer logo" title="MicrosoftSQLServer" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftSQLServer&logoColor=CC2927" alt="MicrosoftSQLServer logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
