@@ -71,7 +71,7 @@
           width: 80px;
           height: 80px;
         }
-        	<!--
+        
         .skills_icon.nodejs>img {
           width: 74px;
         } -->
@@ -81,7 +81,7 @@
         <div class="earth"></div>
 				<div class="greeting">
           Hello !<br/>I'm Nguyen Quang Tung.
-        </div>
+        </div>  
         <div class="skills">
           <!-- <div class="skills_icon">
             <img
