@@ -66,19 +66,19 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/nqt7301/" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3677/3677211.png" alt="quangtung-facebook" />
+    <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/3677/3677211.png" alt="quangtung-facebook" />
   </a>
   <a href="https://www.youtube.com/@tungquangnguyen731" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/725/725300.png" alt="quangtung-youtube" />
+    <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/725/725300.png" alt="quangtung-youtube" />
   </a>
   <!-- <a href="https://www.linkedin.com/in/quangtung" target="blank">
     <img src="https://www.flaticon.com/free-icon/linkedin_725337?term=linkedin&page=1&position=2&page=1&position=2&related_id=725337&origin=style" alt="quangtung-linkedin" />
   </a> -->
   <a href="https://www.instagram.com/nguyentung7301/" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/725/725278.png" alt="quangtung-instagram" />
+    <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/725/725278.png" alt="quangtung-instagram" />
   </a>
   <a href="mailto:tt.quangtung.ld@gmail.com" target="top">
-    <img src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="quangtung-email" />
+    <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="quangtung-email" />
   </a>
 </div>
 
@@ -109,5 +109,5 @@
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a> --> -->
+</a> -->
 
