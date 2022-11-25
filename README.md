@@ -1,5 +1,3 @@
-"# nguyenquangtung" 
-
 
 <a href="#" target="_blank">
   <img src="svg/quangtung.svg" width="1200" alt="nguyenquangtung" />
