@@ -1,7 +1,7 @@
-
 <a href="#" target="_blank">
   <img src="svg/quangtung.svg" width="1200" alt="nguyenquangtung" />
 </a>
+
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -65,7 +65,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/nqt7301/" target="blank">
+ <a href="https://facebook.com/nqt7301/" target="blank">
     <img width="90" height="90" src="https://cdn-icons-png.flaticon.com/512/3677/3677211.png" alt="quangtung-facebook" />
   </a>
   <a href="https://www.youtube.com/@tungquangnguyen731" target="blank">
@@ -82,8 +82,8 @@
   </a>
 </div>
 
-<!-- <br>
-
+<br>
+<!-- 
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
@@ -109,5 +109,5 @@
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a> -->
-
+</a>
+ --> -->
