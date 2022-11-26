@@ -74,6 +74,7 @@ e logo" title="Python" height="25" /></span>
   <a href="#" title="nguyenquangtung">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquangtung&layout=compact&border_color=61dafb" />
   </a>
+  <br>
   <a href="#" title="nguyenquangtung">
     <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a>
