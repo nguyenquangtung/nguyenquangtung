@@ -60,12 +60,15 @@
 					letter-spacing: 5px;
           animation:  typing 5s forwards;
           margin-left: 50px;
-          margin-top: 50px;
+          margin-top: 150px;
           white-space: nowrap;
+        }
+        .hello{
+          margin-left: 245px;
         }
 				.skills {
           display: inline-flex;
-          margin: 30px 0 0 100px;
+          margin: 50px 0 0 245px;
           gap: 7px;
         }
         .skills_icon>img {
@@ -80,7 +83,8 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hello!<br/>My name is Nguyen Quang Tung
+          <div class="hello" > Hello!</div>
+          <br/>My name is Nguyen Quang Tung
         </div>
         <div class="skills">
           <div class="skills_icon">
