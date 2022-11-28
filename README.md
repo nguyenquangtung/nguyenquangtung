@@ -101,5 +101,5 @@ e logo" title="Python" height="25" /></span>
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="quangtung-email" />
   </a>
 
-    ![Snake animation](https://github.com/nguyenquangtung/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/nguyenquangtung/nguyenquangtung/blob/output/github-contribution-grid-snake.svg)
 </div>
