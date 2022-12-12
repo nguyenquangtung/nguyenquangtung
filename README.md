@@ -2,7 +2,6 @@
   <img src="svg/quangtung.svg" width="1200" alt="nguyenquangtung" />
 </a>
 
-
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -52,6 +51,10 @@ e logo" title=".NET" height="25" /></span>
 e logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=openCV&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorFlow&logoColor=#FF6F00" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/pandas-282C34?logo=pandas&logoColor=#150458" alt="pandas logo" title="pandas" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
