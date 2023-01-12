@@ -94,7 +94,7 @@ e logo" title="Python" height="25" /></span>
   <a href="https://www.youtube.com/@tungquangnguyen731" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="quangtung-youtube" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <!-- <a href="https://www.linkedin.com/in/blablabla" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quangtung-linkedin" />
   </a> -->
   <a href="https://www.instagram.com/nguyentung7301/" target="_blank" rel="noopener noreferrer">
