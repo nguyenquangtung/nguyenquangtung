@@ -34,7 +34,7 @@
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp; -->
 <!-- Programming Languages  -->
-<span><b><strong>Programming Languages :</strong></b></span>
+<span><b><strong>Programming Languages 💻 :</strong></b></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python
 e logo" title="Python" height="25" /></span>
@@ -67,7 +67,7 @@ e logo" title="Python" height="25" /></span>
 <span><img src="https://img.shields.io/badge/scikitlearn-282C34?logo=scikitlearn&logoColor=##F7931E" alt="scikitlearn logo" title="scikitlearn" height="25" /></span>
 &nbsp;
 <!-- Tools -->
-</br><span><b><strong>Tools :</strong></b></span>
+</br><span><b><strong>Tools 🔧 :</strong></b></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
@@ -106,9 +106,8 @@ e logo" title="Python" height="25" /></span>
     <img align="right" width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">🔎 Where to find me 🔍</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
