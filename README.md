@@ -35,6 +35,12 @@
 &nbsp; -->
 <span><b><strong>Programming Languages :</strong></b></span>
 &nbsp;
+
+</br><span><b><strong>Frameworks :</strong></b></span>
+&nbsp;
+
+</br><span><b><strong>Tools :</strong></b></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=44A833" alt="Anaconda logo" title="Anaconda" height="25" /></span>
@@ -68,6 +74,7 @@ e logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftSQLServer&logoColor=CC2927" alt="MicrosoftSQLServer logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
+
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
