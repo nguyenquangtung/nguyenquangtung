@@ -49,12 +49,16 @@ e logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftSQLServer&logoColor=CC2927" alt="MicrosoftSQLServer logo" title="Microsoft SQL Server" height="25" /></span>
+&nbsp;
 <!-- Frameworks -->
 </br><span><b><strong>Frameworks :</strong></b></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=openCV&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorFlow&logoColor=#FF6F00" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=openCV&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/pandas-282C34?logo=pandas&logoColor=#150458" alt="pandas logo" title="pandas" height="25" /></span>
 &nbsp;
@@ -71,16 +75,17 @@ e logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=#181717" alt="github logo" title="github" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/SpyderIDE-282C34?logo=spyderIDE&logoColor=FF0000" alt="Spyder IDE logo" title="Spyder IDE
 " height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftSQLServer&logoColor=CC2927" alt="MicrosoftSQLServer logo" title="Microsoft SQL Server" height="25" /></span>
-&nbsp;
+
 <!-- Others -->
+
 </br><span><b><strong>Others :</strong></b></span>
 &nbsp;
+
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
