@@ -58,6 +58,8 @@ e logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorFlow&logoColor=#FF6F00" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/keras-282C34?logo=keras&logoColor=#D00000" alt="keras logo" title="keras" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=openCV&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/pandas-282C34?logo=pandas&logoColor=#150458" alt="pandas logo" title="pandas" height="25" /></span>
@@ -69,13 +71,17 @@ e logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=44A833" alt="Anaconda logo" title="Anaconda" height="25" /></span>
+<span><img src="https://img.shields.io/badge/googlecolab-282C34?logo=googlecolab&logoColor=#F9AB00" alt="googlecolab logo" title="googlecolab" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/EclipseIDE-282C34?logo=eclipseIDE&logoColor=782A90" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>
+<span><img src="https://img.shields.io/badge/jupyter-282C34?logo=jupyter&logoColor=##F37626" alt="jupyter logo" title="jupyter" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=#181717" alt="github logo" title="github" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=44A833" alt="Anaconda logo" title="Anaconda" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/EclipseIDE-282C34?logo=eclipseIDE&logoColor=782A90" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/SpyderIDE-282C34?logo=spyderIDE&logoColor=FF0000" alt="Spyder IDE logo" title="Spyder IDE
 " height="25" /></span>
