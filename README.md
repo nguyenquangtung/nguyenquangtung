@@ -58,6 +58,8 @@ e logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/pandas-282C34?logo=pandas&logoColor=#150458" alt="pandas logo" title="pandas" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/scikitlearn-282C34?logo=scikitlearn&logoColor=##F7931E" alt="scikitlearn logo" title="scikitlearn" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
