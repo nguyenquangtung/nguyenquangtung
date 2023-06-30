@@ -33,9 +33,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp; -->
+<p><strong>Programming Languages :</strong></p>
 <span><b text-alige= "justify"; style="font-size: 250px;">Programming Languages :</b></span>
 &nbsp;
-<strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=44A833" alt="Anaconda logo" title="Anaconda" height="25" /></span>
