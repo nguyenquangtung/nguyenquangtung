@@ -79,7 +79,7 @@ e logo" title="Python" height="25" /></span>
   </a>
   <h5 align="right"></h5>
   <a href="#" title="nguyenquangtung">
-    <img align="center" width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
