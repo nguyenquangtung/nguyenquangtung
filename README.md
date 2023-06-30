@@ -39,11 +39,11 @@
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python
 e logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/c-282C34?logo=C&logoColor=#A8B9CC" alt="c logo" title="C" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=#A8B9CC" alt="c logo" title="C" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=C++&logoColor=#00599C" alt="cplusplus logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=#00599C" alt="cplusplus logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/dotnet-282C34?logo=.Net&logoColor=##512BD4" alt="dotnet logo" title=".Net" height="25" /></span>
+<span><img src="https://img.shields.io/badge/.Net-282C34?logo=dotnet&logoColor=##512BD4" alt="dotnet logo" title=".Net" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
