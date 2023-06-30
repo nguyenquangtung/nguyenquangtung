@@ -73,7 +73,7 @@ e logo" title="Python" height="25" /></span>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=left>
+<div align="left">
   <a href="#" title="nguyenquangtung">
  <img width="315" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nguyenquangtung&hide=powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
@@ -84,9 +84,7 @@ e logo" title="Python" height="25" /></span>
 </div>
 
 <br>
-<br>
 <h2 align="center">👽 Where to find me 👽</h2>
-<br>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
