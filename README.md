@@ -39,8 +39,11 @@
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python
 e logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/.NET-282C34?logo=visual-studio-code&logoColor=512BD4" alt=".NET
-e logo" title=".NET" height="25" /></span>
+<span><img src="https://img.shields.io/badge/c-282C34?logo=c&logoColor=#A8B9CC" alt="c logo" title="c" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=#00599C" alt="cplusplus logo" title="cplusplus" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
