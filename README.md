@@ -86,11 +86,8 @@ e logo" title="Python" height="25" /></span>
 <span><img src="https://img.shields.io/badge/SpyderIDE-282C34?logo=spyderIDE&logoColor=FF0000" alt="Spyder IDE logo" title="Spyder IDE
 " height="25" /></span>
 &nbsp;
-
-Others
-
-</br><span><b><strong>Others :</strong></b></span>
-&nbsp;
+<!-- </br><span><b><strong>Others :</strong></b></span>
+&nbsp; -->
 
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
