@@ -39,11 +39,11 @@
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python
 e logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/c-282C34?logo=c&logoColor=#A8B9CC" alt="c logo" title="c" height="25" /></span>
+<span><img src="https://img.shields.io/badge/c-282C34?logo=c&logoColor=#A8B9CC" alt="c logo" title="C" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=#00599C" alt="cplusplus logo" title="cplusplus" height="25" /></span>
+<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=#00599C" alt="cplusplus logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/dotnet-282C34?logo=dotnet&logoColor=##512BD4" alt="dotnet logo" title=".Net" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -78,7 +78,9 @@ e logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftSQLServer&logoColor=CC2927" alt="MicrosoftSQLServer logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
-
+<!-- Others -->
+</br><span><b><strong>Others :</strong></b></span>
+&nbsp;
 <!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
