@@ -65,9 +65,7 @@
         <div class="earth"></div>
         <div class="greeting">
           <div class="hello"> Hello!</div>
-          <br />My name is Nguyen Quang Tung <br />AI / Computer
-          Vision Engineer </div>
-
+          <br />My name is Nguyen Quang Tung </div>
         <div class="skills">
           <div class="skills_icon">
             <!-- <img
