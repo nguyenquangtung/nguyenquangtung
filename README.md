@@ -107,6 +107,7 @@ e logo" title="Python" height="25" /></span>
   <!-- <a href="#" title="nguyenquangtung">
     <img align="right" width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a> -->
+
 </div>
 <br>
 <h2 align="center">🔎 Where to find me 🔍</h2>
@@ -130,5 +131,6 @@ e logo" title="Python" height="25" /></span>
   </a>
 
 <!-- ![snake gif](https://github.com/nguyenquangtung/nguyenquangtung/blob/output/github-contribution-grid-snake.gif) -->
-
+![](https://komarev.com/ghpvc/?username=nguyenquangtung&color=orange&style=plastic&base=7301)
 </div>
+
