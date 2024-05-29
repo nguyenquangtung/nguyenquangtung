@@ -101,13 +101,24 @@ e logo" title="Python" height="25" /></span>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align="center">
+<!-- <div align="center">
   <a href="#" title="nguyenquangtung">
  <img width="400" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nguyenquangtung&hide=powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <!-- <a href="#" title="nguyenquangtung">
     <img align="right" width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-  </a> -->
+  </a> --> -->
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+
+<br>
 
 </div>
 <br>
