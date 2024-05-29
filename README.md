@@ -1,3 +1,4 @@
+<p align="center">
 <a href="#" target="_blank">
   <img src="svg/quangtung.svg" width="1200" alt="nguyenquangtung" />
 </a>
@@ -131,6 +132,7 @@ e logo" title="Python" height="25" /></span>
   </a>
 
 <!-- ![snake gif](https://github.com/nguyenquangtung/nguyenquangtung/blob/output/github-contribution-grid-snake.gif) -->
-![](https://komarev.com/ghpvc/?username=nguyenquangtung&color=orange&style=plastic&base=7301)
-</div>
 
+![](https://komarev.com/ghpvc/?username=nguyenquangtung&color=orange&style=plastic&base=7301)
+
+</div>
