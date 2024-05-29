@@ -105,7 +105,9 @@ e logo" title="Python" height="25" /></span>
   <a href="#" title="nguyenquangtung">
  <img width="400" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nguyenquangtung&hide=powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <details>
+</div>
+<div> 
+<details>
   <summary>More</summary>
   <br>
   My Github Stats
@@ -116,7 +118,6 @@ e logo" title="Python" height="25" /></span>
   <!-- <a href="#" title="nguyenquangtung">
     <img align="right" width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a> -->
-
 </div>
 <br>
 <h2 align="center">🔎 Where to find me 🔍</h2>
