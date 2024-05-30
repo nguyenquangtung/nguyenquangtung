@@ -115,10 +115,11 @@ e logo" title="Python" height="25" /></span>
   <a href="mailto:quangtung.work73@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="quangtung-email" />
   </a>
+
+![](https://komarev.com/ghpvc/?username=nguyenquangtung&color=orange&style=plastic&base=7301)
+
 </div>
 
 <!-- ![snake gif](https://github.com/nguyenquangtung/nguyenquangtung/blob/output/github-contribution-grid-snake.gif) -->
-
-![](https://komarev.com/ghpvc/?username=nguyenquangtung&color=orange&style=plastic&base=7301)
 
 </div>
