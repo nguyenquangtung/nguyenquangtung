@@ -84,10 +84,10 @@ e logo" title="Python" height="25" /></span>
     My Github Stats
     <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
       <a href="#" title="nguyenquangtung">
-          <img width="400" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nguyenquangtung&hide=powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+          <img width="400" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyenquangtung&hide=powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
       </a>
       <a href="#" title="nguyenquangtung">
-        <img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+        <img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
       </a>
     </div>
 
