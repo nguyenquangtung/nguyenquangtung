@@ -70,16 +70,14 @@ e logo" title="Python" height="25" /></span>
 &nbsp;
 
 <!-- ---------------------------------GitHub Stats------------------------------------------ -->
-<h2 align="center"> 📈 GitHub Stats </h2>
-<br>
-<div align="center">
+<div>
+  <details>
+    <summary>📈 GitHub Stats</summary>
+    <div align="center">
   <a href="#" title="nguyenquangtung">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a>
-</div>
-<div>
-  <details>
-    <summary>More</summary>
+    </div>
     <br>
     <div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
       <a href="#" title="nguyenquangtung">
