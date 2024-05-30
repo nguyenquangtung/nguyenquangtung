@@ -116,11 +116,9 @@ e logo" title="Python" height="25" /></span>
 
 </td><td>
 
-| Title                                                                           | Stars                                                                                                                              | Technologies                                                                                                          |
-| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [Camera Calibration](https://github.com/nguyenquangtung/Camera_Calibration.git) | <img alt="Stars" src="https://img.shields.io/github/stars/nguyenquangtung/Camera_Calibration?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) |
-
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-squarelogo=opencv)
+| Title                                                                           | Stars                                                                                                                              | Technologies                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Camera Calibration](https://github.com/nguyenquangtung/Camera_Calibration.git) | <img alt="Stars" src="https://img.shields.io/github/stars/nguyenquangtung/Camera_Calibration?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/TH-camera-calibration/) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-squarelogo=opencv) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
 
 </td></tr> </table>
 </div>
