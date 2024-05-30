@@ -74,7 +74,7 @@ e logo" title="Python" height="25" /></span>
 <br>
 <div align="center">
   <a href="#" title="nguyenquangtung">
-        <img width="434" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 <div>
