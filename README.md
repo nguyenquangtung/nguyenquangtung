@@ -98,7 +98,7 @@ e logo" title="Python" height="25" /></span>
 <br>
 <div align="center">
 <table>
-<tr><th>Machine Learning</th><th>PyPi Packages</th></tr>
+<tr><th>Machine Learning</th></tr>
 <tr><td>
 
 | Title                                                                            | Stars                                                                                                                                 | Technologies                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -123,7 +123,7 @@ e logo" title="Python" height="25" /></span>
 </td></tr> </table>
 
 <table>
-<tr>Bots</tr>
+<tr><th>PyPi Packages</th></tr>
 <tr>
 
 | Title                                                                      | Stars                                                                                                                            | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
