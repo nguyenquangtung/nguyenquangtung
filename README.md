@@ -98,7 +98,7 @@ e logo" title="Python" height="25" /></span>
 <br>
 <div align="center">
 <table>
-<tr><th>Machine Learning</th></tr>
+<tr><th>Machine Learning / Deep Learning</th></tr>
 <tr><td>
 
 | Title                                                                            | Stars                                                                                                                                 | Technologies                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -121,13 +121,10 @@ e logo" title="Python" height="25" /></span>
 <tr><th>PyPi Packages</th></tr>
 <tr>
 <td>
-
-| Title                                                                           | Stars                                                                                                                              | Technologies                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Camera Calibration](https://github.com/nguyenquangtung/Camera_Calibration.git) | <img alt="Stars" src="https://img.shields.io/github/stars/nguyenquangtung/Camera_Calibration?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/TH-camera-calibration/) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-squarelogo=opencv) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
-
-</td>                                                                        |
-
+|Title | Description | Stars | Technologies|
+|--|--|--|
+| [Camera Calibration](https://github.com/nguyenquangtung/Camera_Calibration.git) | Easy_to_use package for Camera Calibration|<img alt="Stars" src="https://img.shields.io/github/stars/nguyenquangtung/Camera_Calibration?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/TH-camera-calibration/) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-squarelogo=opencv) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
+</td>
 </tr> </table>
 
 </div>
