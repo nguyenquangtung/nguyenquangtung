@@ -72,7 +72,7 @@ e logo" title="Python" height="25" /></span>
 <!-- ---------------------------------GitHub Stats------------------------------------------ -->
 <div>
   <details>
-    <summary>📈 GitHub Stats</summary>
+    <summary><h2 align="center"> 📈 GitHub Stats </h2></summary>
     <div align="center">
   <a href="#" title="nguyenquangtung">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
