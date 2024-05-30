@@ -70,9 +70,7 @@ e logo" title="Python" height="25" /></span>
 &nbsp;
 
 <!-- ---------------------------------GitHub Stats------------------------------------------ -->
-<br>
 <h2 align="center"> 📈 GitHub Stats </h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align="center">
   <a href="#" title="nguyenquangtung">
@@ -84,24 +82,23 @@ e logo" title="Python" height="25" /></span>
     <summary>More</summary>
     <br>
     My Github Stats
-    <a href="#" title="nguyenquangtung">
-      <img align="right" width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-    </a>
-    <br>
-    <a href="#" title="nguyenquangtung">
-      <img align="right" width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-    </a>
+    <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+      <a href="#" title="nguyenquangtung">
+        <img width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+      </a>
+      <a href="#" title="nguyenquangtung">
+        <img width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+      </a>
+    </div>
   </details>
 </div>
 
 <!-- ---------------------------------GitHub Stats------------------------------------------ -->
 
-&nbsp;
 <br>
 
 <h2 align="center">🔎 Where to find me 🔍</h2>
 <br>
-<!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/nqt7301/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="quangtung-facebook" />
@@ -109,7 +106,7 @@ e logo" title="Python" height="25" /></span>
   <a href="https://www.youtube.com/@tungquangnguyen731" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="quangtung-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/tungnguyen73" target="blank">
+  <a href="https://www.linkedin.com/in/tungnguyen73" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quangtung-linkedin" />
   </a>
   <a href="https://www.instagram.com/nguyentung7301/" target="_blank" rel="noopener noreferrer">
