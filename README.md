@@ -135,19 +135,19 @@ e logo" title="Python" height="25" /></span>
 <br>
 <div align="center">
   <a href="https://facebook.com/nqt7301/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="quangtung-facebook" />
+    <img src="https://img.icons8.com/bubbles/70/000000/facebook-new.png" alt="quangtung-facebook" />
   </a>
   <a href="https://www.youtube.com/@tungquangnguyen731" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="quangtung-youtube" />
+    <img src="https://img.icons8.com/bubbles/70/000000/youtube-squared.png" alt="quangtung-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/tungnguyen73" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quangtung-linkedin" />
+    <img src="https://img.icons8.com/bubbles/70/000000/linkedin.png" alt="quangtung-linkedin" />
   </a>
   <a href="https://www.instagram.com/nguyentung7301/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="quangtung-instagram" />
+    <img src="https://img.icons8.com/bubbles/70/000000/instagram.png" alt="quangtung-instagram" />
   </a>
   <a href="mailto:quangtung.work73@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="quangtung-email" />
+    <img src="https://img.icons8.com/bubbles/70/000000/apple-mail.png" alt="quangtung-email" />
   </a>
 
 ![](https://komarev.com/ghpvc/?username=nguyenquangtung&color=orange&style=plastic&base=7301)
