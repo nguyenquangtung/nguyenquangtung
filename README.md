@@ -84,7 +84,8 @@ e logo" title="Python" height="25" /></span>
     My Github Stats
     <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
       <a href="#" title="nguyenquangtung">
-        <img width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+      ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true) 
+        <!-- <img width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" /> -->
       </a>
       <a href="#" title="nguyenquangtung">
         <img width="434" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nguyenquangtung&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
