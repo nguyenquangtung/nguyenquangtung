@@ -10,39 +10,45 @@
 <!-- Programming Languages  -->
 <span><b><strong>Programming Languages 💻 :</strong></b></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python
-e logo" title="Python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python e logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=#A8B9CC" alt="c logo" title="C" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=A8B9CC" alt="c logo" title="C" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=#00599C" alt="cplusplus logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="cplusplus logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/.Net-282C34?logo=dotnet&logoColor=##512BD4" alt="dotnet logo" title=".Net" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript&logoColor=3178C6" alt="typescript logo" title="Typescript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/.Net-282C34?logo=dotnet&logoColor=512BD4" alt="dotnet logo" title=".Net" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css&logoColor=663399" alt="CSS3 logo" title="CSS3" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=microsoftSQLServer&logoColor=CC2927" alt="MicrosoftSQLServer logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
+
 
 <!-- Frameworks -->
 
-</br><span><b><strong>Frameworks :</strong></b></span>
+</br><span><b><strong>Frameworks/ Opensource:</strong></b></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorFlow&logoColor=#FF6F00" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorFlow&logoColor=FF6F00" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/keras-282C34?logo=keras&logoColor=#D00000" alt="keras logo" title="keras" height="25" /></span>
+<span><img src="https://img.shields.io/badge/keras-282C34?logo=keras&logoColor=D00000" alt="keras logo" title="keras" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=openCV&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/pandas-282C34?logo=pandas&logoColor=#150458" alt="pandas logo" title="pandas" height="25" /></span>
+<span><img src="https://img.shields.io/badge/pandas-282C34?logo=pandas&logoColor=150458" alt="pandas logo" title="pandas" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/scikitlearn-282C34?logo=scikitlearn&logoColor=##F7931E" alt="scikitlearn logo" title="scikitlearn" height="25" /></span>
+<span><img src="https://img.shields.io/badge/scikitlearn-282C34?logo=scikitlearn&logoColor=F7931E" alt="scikitlearn logo" title="scikitlearn" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/paddle-282C34?logo=paddle&logoColor=FDDD35" alt="paddle logo" title="paddle" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/yolo-282C34?logo=yolo&logoColor=111F68" alt="yolo logo" title="yolo" height="25" /></span>
 &nbsp;
 
 <!-- Tools -->
@@ -51,15 +57,19 @@ e logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/googlecolab-282C34?logo=googlecolab&logoColor=#F9AB00" alt="googlecolab logo" title="googlecolab" height="25" /></span>
+<span><img src="https://img.shields.io/badge/googlecolab-282C34?logo=googlecolab&logoColor=F9AB00" alt="googlecolab logo" title="googlecolab" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/pycharm-282C34?logo=pycharm&logoColor=#000000" alt="pycharm logo" title="pycharm" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Roboflow-282C34?logo=Roboflow&logoColor=6706CE" alt="roboflow logo" title="roboflow" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/jupyter-282C34?logo=jupyter&logoColor=##F37626" alt="jupyter logo" title="jupyter" height="25" /></span>
+<span><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=181717" alt="github logo" title="github" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=2496ED" alt="MicrosoftSQLServer logo" title="docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/pycharm-282C34?logo=pycharm&logoColor=000000" alt="pycharm logo" title="pycharm" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/jupyter-282C34?logo=jupyter&logoColor=F37626" alt="jupyter logo" title="jupyter" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/github-282C34?logo=github&logoColor=#181717" alt="github logo" title="github" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Anaconda-282C34?logo=anaconda&logoColor=44A833" alt="Anaconda logo" title="Anaconda" height="25" /></span>
 &nbsp;
@@ -101,7 +111,7 @@ e logo" title="Python" height="25" /></span>
 
 | Title                                                                                               | Description                                                                                                           | Stars                                                                                                                                          | Technologies                                                                                                                                                                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pneumonia Detection Application                                                                     | [Deep Learning]<br>Not public yet                                                                                     |                                                                                                                                                | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br>![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)                                                                                 |
+| [Pneumonia Detection Application](https://github.com/nguyenquangtung/DiagnoseAI)                                                            | [Deep Learning]<br> Apply classifing using DenseNet121 and VietHealth-GPT for chatbot                                                                                    |                                                                                                                                                | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br>![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)                                                                                 |
 | [Driver drosiness detection](https://github.com/nguyenquangtung/DL_Driver-drowsiness-detection.git) | [Deep Learning]<br>Apply deep learning for detecting<br>and warning of driver drowsiness                              | <img alt="Stars" src="https://img.shields.io/github/stars/nguyenquangtung/DL_Driver-drowsiness-detection?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br>![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)                                                                                 |
 | [Fashion Recommendation System](https://github.com/nguyenquangtung/fashion-recommendation-system)   | [Deep Learning]<br>Basic recommendation system with<br>mySQL database and build API                                   | <img alt="Stars" src="https://img.shields.io/github/stars/nguyenquangtung/fashion-recommendation-system?style=flat-square&labelColor=black"/>  | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) <br>![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) |
 | [Chatbot](https://github.com/nguyenquangtung/ML-Chatbox.git)                                        | [Machine Learning]<br>Chatbot using Keras Sequential model<br>and deployment                                          | <img alt="Stars" src="https://img.shields.io/github/stars/nguyenquangtung/ML-Chatbox?style=flat-square&labelColor=black"/>                     | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)                                                                                                                                                                        |
